@@ -1,0 +1,12 @@
+﻿@{
+    var fullNames = ViewData["UserFullNames"] as List<string>;
+}
+
+<h1>User List</h1>
+
+<ul>
+    @foreach (var fullName in fullNames)
+    {
+        <li>@fullName</li>
+    }
+</ul>

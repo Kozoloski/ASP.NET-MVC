@@ -1,0 +1,93 @@
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\bin\Debug\net6.0\PizzaApp.staticwebassets.runtime.json
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\bin\Debug\net6.0\PizzaApp.exe
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\bin\Debug\net6.0\PizzaApp.deps.json
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\bin\Debug\net6.0\PizzaApp.runtimeconfig.json
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\bin\Debug\net6.0\PizzaApp.dll
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\bin\Debug\net6.0\PizzaApp.pdb
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.csproj.AssemblyReference.cache
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.AssemblyInfoInputs.cache
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.AssemblyInfo.cs
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.RazorAssemblyInfo.cache
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.RazorAssemblyInfo.cs
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\obj\Debug\net6.0\staticwebassets\msbuild.PizzaApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\obj\Debug\net6.0\staticwebassets\msbuild.build.PizzaApp.props
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PizzaApp.props
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PizzaApp.props
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\obj\Debug\net6.0\scopedcss\bundle\PizzaApp.styles.css
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\obj\Debug\net6.0\scopedcss\projectbundle\PizzaApp.bundle.scp.css
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.dll
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\obj\Debug\net6.0\refint\PizzaApp.dll
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.pdb
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.genruntimeconfig.cache
+C:\Users\Tomo\Desktop\ASP.NET-MVC\mkwd11-net-08-aspnetmvc\G5\Class 03\PizzaApp\PizzaApp\obj\Debug\net6.0\ref\PizzaApp.dll
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\bin\Debug\net6.0\PizzaApp.staticwebassets.runtime.json
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\bin\Debug\net6.0\PizzaApp.exe
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\bin\Debug\net6.0\PizzaApp.deps.json
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\bin\Debug\net6.0\PizzaApp.runtimeconfig.json
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\bin\Debug\net6.0\PizzaApp.dll
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\bin\Debug\net6.0\PizzaApp.pdb
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.csproj.AssemblyReference.cache
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.AssemblyInfoInputs.cache
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.AssemblyInfo.cs
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.RazorAssemblyInfo.cache
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.RazorAssemblyInfo.cs
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\obj\Debug\net6.0\staticwebassets\msbuild.PizzaApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\obj\Debug\net6.0\staticwebassets\msbuild.build.PizzaApp.props
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PizzaApp.props
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PizzaApp.props
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\obj\Debug\net6.0\scopedcss\bundle\PizzaApp.styles.css
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\obj\Debug\net6.0\scopedcss\projectbundle\PizzaApp.bundle.scp.css
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.dll
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\obj\Debug\net6.0\refint\PizzaApp.dll
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.pdb
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.genruntimeconfig.cache
+C:\Users\Tomo\Desktop\Homework2\PizzaApp\PizzaApp\obj\Debug\net6.0\ref\PizzaApp.dll
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\bin\Debug\net6.0\PizzaApp.staticwebassets.runtime.json
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\bin\Debug\net6.0\PizzaApp.exe
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\bin\Debug\net6.0\PizzaApp.deps.json
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\bin\Debug\net6.0\PizzaApp.runtimeconfig.json
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\bin\Debug\net6.0\PizzaApp.dll
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\bin\Debug\net6.0\PizzaApp.pdb
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.csproj.AssemblyReference.cache
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.AssemblyInfoInputs.cache
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.AssemblyInfo.cs
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.RazorAssemblyInfo.cache
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.RazorAssemblyInfo.cs
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\obj\Debug\net6.0\staticwebassets\msbuild.PizzaApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\obj\Debug\net6.0\staticwebassets\msbuild.build.PizzaApp.props
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PizzaApp.props
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PizzaApp.props
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\obj\Debug\net6.0\scopedcss\bundle\PizzaApp.styles.css
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\obj\Debug\net6.0\scopedcss\projectbundle\PizzaApp.bundle.scp.css
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.dll
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\obj\Debug\net6.0\refint\PizzaApp.dll
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.pdb
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\obj\Debug\net6.0\PizzaApp.genruntimeconfig.cache
+C:\Users\Tomo\Desktop\Homework3\PizzaApp\PizzaApp\obj\Debug\net6.0\ref\PizzaApp.dll
