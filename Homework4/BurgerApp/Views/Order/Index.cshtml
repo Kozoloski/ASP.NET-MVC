@@ -1,0 +1,23 @@
+﻿@using BurgerApp.Models.ViewModels;
+@model List<OrderViewModel>
+
+<h2>There are @ViewData["NumberOfOrders"] orders on our app.</h2>
+
+<h4>@ViewData["Title"]</h4>
+
+
+<a asp-controller="Order" asp-action="CreateOrder">Create Order</a>
+
+
+
+@for (int i = 0; i < Model.Count; i++)
+{
+    <h3>@Model.ElementAt(i).FullName</h3>
+    <p>Adress: @Model.ElementAt(i).Address</p>
+    <p> IsDelivered: @Model.ElementAt(i).IsDelivered</p>
+    <p> Location: @Model.ElementAt(i).Location</p>
+    <p> BurgerName: @Model.ElementAt(i).BurgerName</p>
+
+    <a asp-controller="Order" asp-action="EditOrder" asp-route-id="@Model[i].Id">Edit</a>
+    <a asp-controller="Order" asp-action="DeleteOrder" asp-route-id="@Model[i].Id">Delete</a>
+}

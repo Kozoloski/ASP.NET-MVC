@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tomo\\Desktop\\Homework3\\PizzaApp\\PizzaApp\\PizzaApp.csproj",
+      "projectUniqueName": "C:\\Users\\Tomo\\Desktop\\Homeworks-MVC\\ASP.NET-MVC\\Homework3\\PizzaApp\\PizzaApp\\PizzaApp.csproj",
       "projectName": "PizzaApp",
-      "projectPath": "C:\\Users\\Tomo\\Desktop\\Homework3\\PizzaApp\\PizzaApp\\PizzaApp.csproj",
+      "projectPath": "C:\\Users\\Tomo\\Desktop\\Homeworks-MVC\\ASP.NET-MVC\\Homework3\\PizzaApp\\PizzaApp\\PizzaApp.csproj",
       "packagesPath": "C:\\Users\\Tomo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tomo\\Desktop\\Homework3\\PizzaApp\\PizzaApp\\obj\\",
+      "outputPath": "C:\\Users\\Tomo\\Desktop\\Homeworks-MVC\\ASP.NET-MVC\\Homework3\\PizzaApp\\PizzaApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tomo\\AppData\\Roaming\\NuGet\\NuGet.Config",
