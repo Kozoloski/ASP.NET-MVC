@@ -1,0 +1,17 @@
+C:\Users\Tomo\Desktop\Homework5\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.Mappers.deps.json
+C:\Users\Tomo\Desktop\Homework5\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.Mappers.dll
+C:\Users\Tomo\Desktop\Homework5\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.Mappers.pdb
+C:\Users\Tomo\Desktop\Homework5\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.Domain.dll
+C:\Users\Tomo\Desktop\Homework5\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.ViewModels.dll
+C:\Users\Tomo\Desktop\Homework5\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.Domain.pdb
+C:\Users\Tomo\Desktop\Homework5\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.ViewModels.pdb
+C:\Users\Tomo\Desktop\Homework5\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.csproj.AssemblyReference.cache
+C:\Users\Tomo\Desktop\Homework5\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomo\Desktop\Homework5\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.AssemblyInfoInputs.cache
+C:\Users\Tomo\Desktop\Homework5\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.AssemblyInfo.cs
+C:\Users\Tomo\Desktop\Homework5\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\Homework5\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.csproj.CopyComplete
+C:\Users\Tomo\Desktop\Homework5\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.dll
+C:\Users\Tomo\Desktop\Homework5\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\refint\BurgerApp.Mappers.dll
+C:\Users\Tomo\Desktop\Homework5\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.pdb
+C:\Users\Tomo\Desktop\Homework5\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\ref\BurgerApp.Mappers.dll

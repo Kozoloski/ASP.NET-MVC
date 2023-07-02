@@ -1,0 +1,27 @@
+﻿@using BurgerApp.ViewModels.OrderViewModels;
+@model List<OrderViewModel>
+
+<div class="text-center">
+    <h2 class="display-4">List of orders:</h2>
+</div>
+<br />
+<div>
+    <a asp-controller="Order" asp-action="CreateOrder">Create Order</a>
+</div>
+<br />
+<div class="row">
+@for (int i = 0; i < Model.Count; i++)
+{
+    <div class="card text-white bg-success mb-3" style="max-width: 18rem; margin-left:10px;">
+        <div class="card-body">
+            <h3>@Model.ElementAt(i).FullName</h3>
+            <p>Adress: @Model.ElementAt(i).Address</p>
+            <p> IsDelivered: @Model.ElementAt(i).IsDelivered</p>
+            <p> Location: @Model.ElementAt(i).Location</p>
+            <p> BurgerName: @Model.ElementAt(i).BurgerName</p>
+                <a style="color: white" asp-controller="Order" asp-action="DeleteOrder" asp-route-id="@Model[i].Id">Delete</a>
+                <a style="color: white" asp-controller="Order" asp-action="EditOrder" asp-route-id="@Model[i].Id">Edit</a>
+        </div>
+    </div>
+}
+</div>

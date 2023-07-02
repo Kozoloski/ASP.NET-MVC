@@ -1,0 +1,28 @@
+﻿@using BurgerApp.ViewModels.BurgerViewModels;
+@model List<BurgerViewModel>
+
+<div class="text-center">
+    <h2 class="display-4">List of Burgers:</h2>
+</div>
+<br />
+<div>
+    <a asp-controller="Burger" asp-action="AddBurger">Add Burger</a>
+</div>
+<br />
+
+<div class="row">
+    @for (int i = 0; i < Model.Count; i++)
+    {
+        <div class="card text-white bg-success mb-3" style="max-width: 18rem; margin-left:10px;">
+            <div class="card-body">
+                <h3>@Model.ElementAt(i).BurgerName</h3>
+                <p>Price: @Model.ElementAt(i).Price</p>
+                <p>Is Vegetarian: @Model.ElementAt(i).IsVegetarian</p>
+                <p>Is Vegan: @Model.ElementAt(i).IsVegan</p>
+                <p>Has Fries: @Model.ElementAt(i).HasFries</p>
+                <a style="color: white" asp-controller="Burger" asp-action="DeleteBurger" asp-route-id="@Model[i].Id">Delete</a>
+                <a style="color: white" asp-controller="Burger" asp-action="EditBurger" asp-route-id="@Model[i].Id">Edit</a>
+            </div>
+        </div>
+    }
+</div>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vjus7GojdbGFLXf5Hw2p3T1zF33WT94bb82NAGzaHDcPniQzzYn6DRsQzS6SfahOo46r8qwKsX6UlhBHhceAKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tomo\\Desktop\\Homework5\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tomo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Tomo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
